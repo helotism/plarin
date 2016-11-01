@@ -1,0 +1,15 @@
+{
+  "name": "Primer mPy device",
+  "description": "An RGB LED strip as a wakeuplight.",
+  "WLAN": {
+    "ESSID": "essid",
+    "PASSWORD": "password"
+  },
+  "MQTT": {
+    "SERVER": "10.0.0.222",
+    "TOPIC": "bedroom",
+    "TOPIC_PREFIX": "local/homeautomation",
+    "TOPICBASE": "foo"
+  },
+  "foo": "bar"
+}

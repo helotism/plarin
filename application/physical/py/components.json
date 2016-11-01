@@ -1,0 +1,20 @@
+{
+  "WS2812_ledstrip_single-1": {
+    "logicalname": "wakeuplight",
+    "pin": "0",
+    "ledcount": "60",
+    "driver": "Ledstrip"
+  },
+  "button-1": {
+    "logicalname": "button1",
+    "pin": "5",
+    "activeLow": "True",
+    "driver": "OneButton"
+  },
+  "button-2": {
+    "logicalname": "button2",
+    "pin": "4",
+    "activeLow": "True",
+    "driver": "OneButton"
+  }
+}
